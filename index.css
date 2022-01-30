@@ -145,17 +145,27 @@ body{margin: 0;
  .four .containerfour{display: flex;
                       margin-left: 25%;
                       margin-top: 10%;
+                      text-align: center;
+                      
 
 }
  
  .four .containerfour .box-10{border:solid #23A6F0 2px;
     border-radius: 10px;
-    height: 50%;
-
+     padding-top: 20%;
+                                        }
+    
+.four .containerfour .box-10 h1{font-size: xx-large;
+                                 margin: 5%;
+                                 color:  #23A6F0;
 }
+.four .containerfour .box-10 p{opacity: 60%;}
+.four .containerfour .box-10 h2{color:  #23A6F0;}
 .four .containerfour .box-11{border:solid #23A6F0 2px;
-    border-radius: 10px;
-}
+                                 border-radius: 10px;
+                                
+                                }
 .four .containerfour .box-12{border:solid #23A6F0 2px;
     border-radius: 10px;
 }
+.five{background-color:#252B42 ;}
