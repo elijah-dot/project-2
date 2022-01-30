@@ -168,4 +168,19 @@ body{margin: 0;
 .four .containerfour .box-12{border:solid #23A6F0 2px;
     border-radius: 10px;
 }
-.five{background-color:#252B42 ;}
+.five{background-color:#252B42 ;
+     height: 900px;
+     width: 1300px;
+     margin-left: 10%;
+}
+.five .secondlastpage h1{margin-left:15%;
+                         font-size: 50px;  
+                        margin: 5%; 
+                    color: aliceblue;}
+.five .secondlastpage p{color: aliceblue;
+                         margin-left: 5%;
+                         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                         font-size: smaller;
+
+}
+
