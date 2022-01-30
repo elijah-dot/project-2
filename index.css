@@ -150,7 +150,7 @@ body{margin: 0;
  
  .four .containerfour .box-10{border:solid #23A6F0 2px;
     border-radius: 10px;
-    flex: 3;
+    height: 50%;
 
 }
 .four .containerfour .box-11{border:solid #23A6F0 2px;
