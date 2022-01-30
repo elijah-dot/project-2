@@ -201,6 +201,16 @@ body{margin: 0;
 .five .secondlastpage .document .special{background-color: #23A6F0 ;
                                           border:transparent;
 
-}                               
-                                
+}
+.six .lastpage{margin-top: 15%;
+               margin-left: 10%;
+
+}  
+.six .lastpage h1{color: #252B42;} 
+.six .lastpage p{opacity: 60%;} 
+.six .lastpage input{float: right;
+                   background-color: #23A6F0 ;
+
+}                          
+                            
 
